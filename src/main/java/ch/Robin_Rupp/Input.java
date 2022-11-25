@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * Input Methods like the BASIC INPUT (or c's scanf()).
- *
+ * <p>
  * Because Java has no simple console input, I added this functions to
  * my library.
  * Simply import
@@ -21,7 +21,7 @@ import java.util.Scanner;
 
 public class Input {
     //
-    private static Scanner sc = new Scanner(System.in);
+    private static final Scanner sc = new Scanner(System.in);
 
     /**
      *
@@ -43,7 +43,6 @@ public class Input {
      * If askAgain is false, the user is asked only once.
      * Entering newlines do not ask the user again showing the "question".
      * default: true
-     * @param askAgain
      */
     public static void setAskAgain(boolean askAgain) {
         Input.askAgain = askAgain;

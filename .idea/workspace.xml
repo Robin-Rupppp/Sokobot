@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edc77672-6272-4c7a-b9b1-0278fa772b87" name="Changes" comment="" />
+    <list default="true" id="edc77672-6272-4c7a-b9b1-0278fa772b87" name="Changes" comment="Made Play Area">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/Robin_Rupp/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/Robin_Rupp/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/Robin_Rupp/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/Robin_Rupp/Input.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2I2qDsbDDpWCDAjvrU5kdyC1rVJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,9 +34,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/zruppr/IdeaProjects/Sokobot/src/main/java/ch/Robin_Rupp"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zruppr\IdeaProjects\Sokobot\src\main\java\ch\Robin_Rupp" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,8 +51,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669389915168</updated>
+      <workItem from="1669389916524" duration="2059000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1669390023617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669390023617</updated>
+    </task>
+    <task id="LOCAL-00002" summary="umade a Readme">
+      <created>1669390296082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669390296082</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Made Play Area">
+      <created>1669391665189</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669391665189</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -52,5 +90,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="umade a Readme" />
+    <MESSAGE value="Made Play Area" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made Play Area" />
   </component>
 </project>
